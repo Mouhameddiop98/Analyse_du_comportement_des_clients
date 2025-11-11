@@ -7,7 +7,7 @@ Ce projet illustre un workflow complet d’analyse de données, depuis le charge
 Les principales étapes incluent :
 Chargement des données avec Python
 Analyse exploratoire (EDA) et nettoyage des données
-Exécution de requêtes SQL avec PostgreSQL / MySQL / SQL Server
+Exécution de requêtes SQL avec pgAdmin 4
 Création d’un tableau de bord interactif sur Power BI
 Génération d’un rapport professionnel et d’une présentation via Gamma App
 Ce projet met en avant mes compétences techniques en data analytics et ma capacité à transformer des données brutes en insights exploitables.
@@ -22,7 +22,7 @@ Exemple de colonnes : customer_id, purchase_amount, gender, date, etc.
 🛠️ Outils & Technologies
 Catégorie	Technologie
 Langage de programmation	Python (Pandas, NumPy, Matplotlib/Seaborn)
-Base de données SQL	PostgreSQL (pgAdmin 4)
+Base de données SQL	(pgAdmin 4)
 Visualisation & BI	Power BI
 Reporting & Présentation	skywork.ai
 Versioning	Git / GitHub
